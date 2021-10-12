@@ -43,6 +43,7 @@ namespace LinqDemo
             Console.WriteLine("Some code is addedby GitDemo");
              Console.WriteLine("Some code is addedby GitStuff");
             Console.WriteLine("new branch develop is created and Some code is addedby GitDemo into develop branch");
+             Console.WriteLine("Again Some code is addedby GitStuff into develop branch");
         }
     }
 }
