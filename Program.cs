@@ -42,6 +42,7 @@ namespace LinqDemo
             SetDemo.TestWorker();
             Console.WriteLine("Some code is addedby GitDemo");
              Console.WriteLine("Some code is addedby GitStuff");
+            Console.WriteLine("new branch develop is created and Some code is addedby GitDemo into develop branch");
         }
     }
 }

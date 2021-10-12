@@ -6,6 +6,10 @@ namespace LinqDemo
 {
     class Department
     {
+        public Department ()
+	{
+         Console.WriteLine("new branch develop is created and Some code added into department class is addedby GitDemo into develop branch");
+	}
         public int Id { get; set; }
         public string Name { get; set; }
 
