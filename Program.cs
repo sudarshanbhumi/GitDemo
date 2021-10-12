@@ -41,6 +41,7 @@ namespace LinqDemo
             //   CrossJoinDemo.TestCrossJoin();
             SetDemo.TestWorker();
             Console.WriteLine("Some code is addedby GitDemo");
+             Console.WriteLine("Some code is addedby GitStuff");
         }
     }
 }
