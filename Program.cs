@@ -40,7 +40,7 @@ namespace LinqDemo
             // TestSingleton.Test();
             //   CrossJoinDemo.TestCrossJoin();
             SetDemo.TestWorker();
-            
+            Console.WriteLine("Some code is addedby GitDemo");
         }
     }
 }
